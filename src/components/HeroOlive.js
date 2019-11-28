@@ -10,7 +10,7 @@ class HeroOlive extends Component {
                         <div className="col-lg-7 h-100">
                             <div className="banner-text">
                                 <div className="banner-table-cell">
-                                    <h1>AWESOME <br /> <span className="theme-color">apnew</span> MOBILE APP.</h1>
+                                    <h1>COMING<br /> <span className="theme-color">soon</span> MOBILE APP.</h1>
                                     <p>There are many variations of passages of Lorem Ipsum available, but the majorityhave suffered alteration in some form, by injected humour, or randomised words which don't look even There are many variations of passages of Lorem Ipsum available</p>
                                     <div className="banner-buttons">
                                         <button type="button" className="button-default button-olive">Download</button>

@@ -49,8 +49,8 @@ class Footer extends Component {
                                                 <i className="zmdi zmdi-phone"></i>
                                             </div>
                                             <div className="contact-text">
-                                                <span>00000000000<br />
-                                                0000000000000</span>
+                                                <span>+91 94627 89480<br />
+                                                +91 99508 75201</span>
                                             </div>
                                         </div>
                                         <div className="single-contact-info">
@@ -74,7 +74,7 @@ class Footer extends Component {
                                 </div>
                             </div>
                         </div>
-                        <div className="row">
+                        {/* <div className="row">
                             <div className="col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
                                 <div className="newsletter text-center">
                                     <h3 className="text-white title">SUBSCRIBE FOR OUR NEWSLETTER</h3>
@@ -88,7 +88,7 @@ class Footer extends Component {
                                     </form>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                         <div className="row">
                             <div className="col-lg-8 offset-lg-2 col-xl-4 offset-xl-4">
                                 <div className="footer-links text-center">
@@ -96,7 +96,7 @@ class Footer extends Component {
                                     <a href="/"><i className="zmdi zmdi-twitter"></i></a>
                                     <a href="/"><i className="zmdi zmdi-google"></i></a>
                                     <a href="/"><i className="zmdi zmdi-linkedin"></i></a>
-                                    <a href="/"><i className="zmdi zmdi-pinterest"></i></a>
+                                
                                     <a href="/"><i className="zmdi zmdi-youtube"></i></a>
                                 </div>
                                 <div className="footer-text text-center">
